@@ -22,11 +22,11 @@ const app = express();
 // Add data parsing to express.
 app.use(express.json());
 
-// Translation. German default language.
+// Translation. English default language.
 app.use(
   createLocaleMiddleware({
     priority: ["accept-language", "default"],
-    default: "de-DE",
+    default: "en-US",
   })
 );
 

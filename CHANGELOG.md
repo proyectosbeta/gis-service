@@ -4,6 +4,7 @@
 
 - [docs] Update API documentation with swagger.
 - [feat] Add rate limiting.
+- [feat] Add spanish language.
 
 ## v0.1.0
 

@@ -1,11 +1,12 @@
 "use strict";
 
 import Polyglot from "node-polyglot";
-import { myDe, myEn } from "../i18n/index.js";
+import { myDe, myEn, myEs } from "../i18n/index.js";
 
 const languages = {
   de: myDe,
   en: myEn,
+  es: myEs,
 };
 
 const getLanguage = (language) => {
