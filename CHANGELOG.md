@@ -3,6 +3,7 @@
 ## v0.1.1
 
 - [docs] Update API documentation with swagger.
+- [feat] Add rate limiting.
 
 ## v0.1.0
 
