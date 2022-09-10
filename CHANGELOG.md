@@ -6,6 +6,7 @@
 - [feat] Add rate limiting.
 - [feat] Add spanish language.
 - [feat] Add testing.
+- [docs] Update readme file.
 
 ## v0.1.0
 

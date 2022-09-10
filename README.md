@@ -144,7 +144,7 @@ yarn global add pm2
 #### Start an app
 
 ```bash
-pm2 start dist/bundle.js --name gis-service
+pm2 start /home/proyectosbeta/repositorioGit/gis-service/dist/bundle.js --name gis-service
 ```
 
 #### Managing processes
