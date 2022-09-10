@@ -1,4 +1,10 @@
-# v0.1.0
+# Release Notes
+
+## v0.1.1
+
+- [docs] Update API documentation with swagger.
+
+## v0.1.0
 
 - [feat] Add endoint to direction driving with two points (origin and destination).
 - [feat] Add endoint to geocoding forward.
