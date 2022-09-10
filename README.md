@@ -62,6 +62,8 @@ yarn start
 - [API](https://jestjs.io/docs/en/api)
 - [Expect](https://jestjs.io/docs/en/expect)
 
+##### All test
+
 ```bash
 yarn test
 ```
@@ -70,6 +72,14 @@ or
 
 ```bash
 yarn --watchAll
+```
+
+##### Individual test
+
+```bash
+yarn test api.main.test.js
+yarn test direction.v1.test.js
+yarn test geocoding.v1.test.js
 ```
 
 ### Code Quality
